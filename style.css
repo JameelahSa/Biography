@@ -1,0 +1,19 @@
+h1 {
+  font-size: 49px;
+  text-align: center;
+}
+
+body {
+  background-color: aquamarine;
+  background-repeat: no-repeat;
+  background-size: 15%;
+  background-position: top right;
+}
+
+ul {
+  list-style-type: square;
+}
+
+#p1 {
+  width: 75px;
+}
